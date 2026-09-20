@@ -8,5 +8,6 @@ printf("Cost price of silver: %lf \n",cost);
 printf("Selling price of silver: %lf",sale);
 
 
+
     return 0;
 }
