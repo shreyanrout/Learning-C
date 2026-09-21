@@ -1,11 +1,11 @@
 #include <stdio.h>
 int main(){
 
-double cost = 2300.752;
-double sale = 3000.838;
+double pi = 3.14159265358979;
+double e = 2.7182818284590;
 
-printf("Cost price of silver: %lf \n",cost);
-printf("Selling price of silver: %lf",sale);
+printf("The value of pi is: %lf \n", pi);
+printf("The value of e is: %lf \n", e);
 
 
 
